@@ -6,6 +6,6 @@
 ### movie_box.ipynb
 * jupyter notebook 的代码，包括数据抓取，及使用 pyecharts 绘图。
 ### boxoffice.html 
-* 绘制的图表，电影日票房图表；
+* 绘制的图表，电影日票房折线图；
 ### boxoffice.json
 * 抓取的电影日票房数据。
